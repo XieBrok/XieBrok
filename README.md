@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @XieBrok
 - 👀 I’m interested in micro:bit
 - 
-- This is my e-mail:hhyyy@hhysky.eu.org
+- This is my e-mail:hhyyyy@hhysky.eu.org
 - 
 
 
