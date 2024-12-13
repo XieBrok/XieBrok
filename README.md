@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiXieBrokanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiXieBrokanuraghazra)
 
 <!---
 XieBrok/XieBrok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
