@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @XieBrok
-- 👀 I’m interested in micro:bit
-- 
-- This is my e-mail:hhyyyy@hhysky.eu.org
-- 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiXieBrok)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 XieBrok/XieBrok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
