@@ -1,4 +1,4 @@
-<h1 align="center">⭐泥嚎！我是HHYYYY！</h1>
+<h1 align="center">Hello！我是HHYYYY！</h1>
 
 ###
 
@@ -67,7 +67,6 @@
   <img width="12" />
 </div>
 
-###
 
 <br clear="both">
 
@@ -90,7 +89,6 @@
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
 </div>
 
-###
 
 <p align="center">🖥️我的开发环境</p>
 
