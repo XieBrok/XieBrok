@@ -28,7 +28,7 @@
 
 <div align="center">
 <!--   <img src="https://streak-stats.demolab.com?user=WenqiOfficial&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  /><br> -->
-  <ing src="https://github-readme-stats.vercel.app/api?username=XieBrok&show_icons=true&theme=radical&locale=cn" />
+  <img src="https://github-readme-stats.vercel.app/api?username=XieBrok&show_icons=true&theme=radical&locale=cn" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XieBrok&theme=radical&locale=cn" />
 </div>
 
