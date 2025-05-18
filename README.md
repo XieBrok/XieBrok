@@ -4,7 +4,7 @@
 
 <img align="right" width="150" src="https://avatars.githubusercontent.com/u/98696246"  />
 
-苦逼高中生生一枚——
+苦逼高中生一枚——
 
 喜欢摄影的科技宅！
 
