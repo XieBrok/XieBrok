@@ -1,126 +1,80 @@
-<h1 align="center">Hello！我是HHYYYY！</h1>
+<h1 align="center">Hi, I'm HHYYYY 👋</h1>
+<p align="center">
+  <strong>📸 摄影 | 💻 科技宅 | 🚀 探索者</strong>
+</p>
 
-###
+<p align="center">
+  <a href="https://taten.xyz/">Taten 成员</a> · <a href="mailto:hhyyyy@hhysky.eu.org">邮箱</a>
+</p>
 
-<img align="right" width="150" src="https://avatars.githubusercontent.com/u/98696246"  />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1200&color=F78C6C&center=true&vCenter=true&width=435&lines=无限进步%E3%80%82;Keep+learning%2C+keep+building.;Nice+to+meet+you!" alt="Typing SVG" />
+</p>
 
-苦逼高中生一枚——
+<p align="center">
+  <img align="center" width="150" src="https://avatars.githubusercontent.com/u/98696246" alt="avatar" />
+</p>
 
-喜欢摄影的科技宅！
+---
 
-喜欢探索很多很多领域！
+<h2 align="center">📌 关于我</h2>
 
-现在是<a href="https://taten.xyz/">Taten</a>的一员
+- 苦逼高中生一枚 —— 但一直在成长 ✨
+- 喜欢摄影、技术、以及各种新鲜事物
+- 目前专注：前端、Python、自动化
 
-💭“无限进步。”
+---
 
-联系方式:
-
-- E-mail: <hhyyyy@hhysky.eu.org>
-
-###
-
-<br clear="both">
-
-<h2 align="center">🖊代码小计</h2>
-
-###
-
-<br clear="both">
-
-<div align="center">
-<!--   <img src="https://streak-stats.demolab.com?user=WenqiOfficial&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  /><br> -->
-  <img src="https://github-readme-stats.vercel.app/api?username=XieBrok&show_icons=true&theme=radical&locale=cn" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XieBrok&theme=radical&locale=cn" />
-</div>
-
-
-
-<p align="center">正在学习使用的语言</p>
-
-###
-
-<br clear="both">
+<h2 align="center">📊 数据小计</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=XieBrok&show_icons=true&theme=radical&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XieBrok&theme=radical&layout=compact&hide_border=true" height="160" />
 </div>
 
-###
+---
 
-<p align="center">使用的工具</p>
+<h2 align="center">🧩 技能与工具</h2>
 
-###
-
-<br clear="both">
-
+<p align="center"><strong>正在学习</strong></p>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-   <img src="https://skillicons.dev/icons?i=vim" height="40" alt="vim logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=raspberrypi" height="40" alt="raspberrypi logo"  />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py,html,css,js" height="40" />
 </div>
 
-
-<br clear="both">
-
+<p align="center"><strong>常用工具</strong></p>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode,vim,raspberrypi,ae,ps" height="40" />
 </div>
 
-###
-
-<br clear="both">
-
+<p align="center"><strong>常用技术栈</strong></p>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=bootstrap,nginx,nodejs" height="40" />
 </div>
 
-
-<p align="center">🖥️我的开发环境</p>
-
-###
-
+<p align="center"><strong>开发环境</strong></p>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=cloudflare,github" height="40" />
 </div>
 
-<p></p>
+<p align="center">
+  <a href="https://www.microsoft.com/windows11">
+    <img src="https://img.shields.io/badge/Windows%2011-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF" alt="Windows 11" />
+  </a>
+  <a href="https://www.linuxmint.com/">
+    <img src="https://img.shields.io/badge/Linuxmint%2022-00C000?style=flat-square&logo=linuxmint&logoColor=FFFFFF&labelColor=00C000" alt="Linuxmint 22" />
+  </a>
+  <a href="https://www.android.com/">
+    <img src="https://img.shields.io/badge/Android-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000" alt="Android" />
+  </a>
+</p>
 
-<div align="center">
-<a href="https://www.microsoft.com/windows11"><img src="https://img.shields.io/badge/Windows%2011-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF" alt="Windows 11"></a>
-<a href="https://www.linuxmint.com/"><img src="https://img.shields.io/badge/Linuxmint%2022-00C000?style=flat-square&logo=linuxmint&logoColor=FFFFFF" alt="Linuxmint 22"></a>
-<a href="https://www.android.com/"><img src="https://img.shields.io/badge/Android-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000" alt="Android"></a>
-</div>
+---
 
-<p></p>
+<h2 align="center">🎉 很高兴见到你</h2>
+<p align="center">
+  <img align="center" width="50%" src="https://github.com/XieBrok/XieBrok/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3d-contrib" />
+</p>
 
-###
-
-<h2 align="center">🎉很高兴见到你</h2>
-<img align="center" width="50%" src="https://github.com/XieBrok/XieBrok/blob/main/profile-3d-contrib/profile-night-rainbow.svg"/>
-
-###
-
-
-<!---
-XieBrok/XieBrok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!--
+XieBrok/XieBrok is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
+-->
