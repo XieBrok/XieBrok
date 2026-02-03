@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="/typing.svg />
+  <img src="/typing.svg" alt="typing">
 </p>
 
 <p align="center">
